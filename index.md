@@ -8,4 +8,4 @@ Homework 1 is [here](files/HW5821RMD.html).
 
 Homework 2 is [here](files/hw2_582.html) .
 
-Homework 3 is [here](fall18-homework0-ndenizturhan/files/HW3_582.html).
+Homework 3 is [here](files/HW3_582.html).
