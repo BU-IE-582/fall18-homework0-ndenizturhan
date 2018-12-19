@@ -9,3 +9,15 @@ Homework 1 is [here](files/HW5821RMD.html).
 Homework 2 is [here](files/hw2_582.html) .
 
 Homework 3 is [here](files/HW3_582.html).
+
+Homework 4 Data 1 is [here]
+(files/hw4_data1.html).
+
+Homework 4 Data 2 is [here]
+(files/hw4_data2.html)
+
+Homework 4 Data 3 is [here]
+(files/hw4_data3.html)
+
+Homework 4 Data 4 is [here]
+(files/hw4_data4.html)
