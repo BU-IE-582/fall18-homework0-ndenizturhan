@@ -19,3 +19,5 @@ Homework 4 Data 3 is [here](files/hw4_data3.html)
 Homework 4 Data 4 is [here](files/hw4_data4.html)
 
 Homework 5 is [here](files/hw5_582.html)
+
+Project assignment is [here](files/582ProjectFinal.html) and project code is [here](files/582ProjectCode.R)
